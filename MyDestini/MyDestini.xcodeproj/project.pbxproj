@@ -41,6 +41,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9C1714E528508596008D4449 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				9C59DE5D28507B3900F41DFA /* ViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
 		9C59DE4D28507B3900F41DFA = {
 			isa = PBXGroup;
 			children = (
@@ -64,20 +72,12 @@
 				9C59DE5B28507B3900F41DFA /* SceneDelegate.swift */,
 				9C59DE6F28507BA400F41DFA /* Modul */,
 				9C59DE6E28507B9100F41DFA /* View */,
-				9C59DE6D28507B6500F41DFA /* Controller */,
+				9C1714E528508596008D4449 /* Controller */,
 				9C59DE6228507B3A00F41DFA /* Assets.xcassets */,
 				9C59DE6428507B3A00F41DFA /* LaunchScreen.storyboard */,
 				9C59DE6728507B3A00F41DFA /* Info.plist */,
 			);
 			path = MyDestini;
-			sourceTree = "<group>";
-		};
-		9C59DE6D28507B6500F41DFA /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				9C59DE5D28507B3900F41DFA /* ViewController.swift */,
-			);
-			path = Controller;
 			sourceTree = "<group>";
 		};
 		9C59DE6E28507B9100F41DFA /* View */ = {
